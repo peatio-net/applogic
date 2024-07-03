@@ -14,7 +14,7 @@ We advise to use [minimalistic environment](#minimalistic-local-development-envi
 #### Prerequisites
 * [Docker](https://docs.docker.com/install/) installed
 * [Docker compose](https://docs.docker.com/compose/install/) installed
-* Ruby 2.5.0
+* Ruby 2.7.7
 * Rails 5.2+
 
 #### Installation
