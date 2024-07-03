@@ -12,7 +12,7 @@ gem 'grape_logging',                    '~> 1.8'
 gem 'jwt-multisig',                     '~> 1.0'
 gem 'memoist',                          '~> 0.16'
 gem 'mini_racer',                       '~> 0.1', require: false
-gem 'mysql2',                           '>= 0.3.18', '< 0.5'
+gem 'mysql2', '~> 0.5.3'
 gem 'puma',                             '~> 3.7'
 gem 'rails',                            '~> 6.1.0'
 gem 'sass-rails',                       '~> 5.0'
